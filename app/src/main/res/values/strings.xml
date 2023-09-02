@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Junin Turistico</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="iniciarsesion">Iniciar Sesion</string>
+    <string name="registrars">Registrarse</string>
+    <string name="vive_junin_destin">Vive Junin Destino</string>
+    <string name="iniciar_sesio">Iniciar Sesion</string>
+</resources>
