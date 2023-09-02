@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
             // Start the second activity
             val intent = Intent(this, IniSesionActivity::class.java)
             startActivity(intent)
+            print("esto es un ejemplo")
         }
     }
 }
